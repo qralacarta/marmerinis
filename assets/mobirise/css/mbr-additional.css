@@ -2736,3 +2736,17 @@ section.lazy-placeholder:after {
 .cid-s55EJcHEq8 .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-s1ZQnFnuFC {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-s1ZQikFfXT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s1ZQikFfXT .mbr-text,
+.cid-s1ZQikFfXT blockquote {
+  color: #767676;
+}
